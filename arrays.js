@@ -27,7 +27,8 @@ let nums =arr3.sort((a,b)=>a -b);
 console.log(nums);
 
 // write a program to remove duplicates from the following array.
-// Console the array without duplicates, and console another array that only contains the duplicates
+// Console the array without duplicates, and console anothegit commit -m "first commit"
+//r array that only contains the duplicates
 // var arr = ["apple", "mango", "apple",
 //             "orange", "mango", "mango"];
 var arr =["apple","mango","apple","orange","mango","mango",];
