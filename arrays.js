@@ -48,3 +48,10 @@ console.log(findDuplicates(arr));
 // iterate through the array. FInd a method to loop through
 // Use an if statement to check if the current item is the item being searched for
 // console as per the question
+let arr5=["the","way","x",423];
+const word=["the","way","x",423];
+console.log(nums.includes(4));
+
+
+
+
