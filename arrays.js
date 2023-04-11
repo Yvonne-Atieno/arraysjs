@@ -4,12 +4,16 @@
 // arr2 = [true, "green", "where",12,56]
 
 let arr1 = [3,7,34,90,12];
+
 let arr4 = arr1[arr1.length-1];
 console.log([arr4]);
 
 let arr2 = [true, "green", "where",12,56];
 let mix = arr2[arr2.length-1];
 console.log(mix);
+
+
+
 
 
 
@@ -51,6 +55,18 @@ console.log(findDuplicates(arr));
 let arr5=["the","way","x",423];
 const word=["the","way","x",423];
 console.log(nums.includes(4));
+
+for ( i = 0; i < arr5.length; i++) {
+    if(arr5.includes("the")){
+        console.log("search");
+    }
+    
+}
+
+        
+
+
+    
 
 
 
